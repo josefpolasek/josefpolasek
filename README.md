@@ -1,9 +1,5 @@
 ```json
- {
-    "name": "Josef Polasek",
-    "email": "josefpolasek12@gmail.com",
-    "github": "github.com/josefpolasek",
-    "linkedin": "https://www.linkedin.com/in/josef-polasek-b3a403227/",
+ let JosefPolasek = {
     "profesion": "Software Engineer",
     "education": [
         {
