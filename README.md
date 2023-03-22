@@ -1,5 +1,7 @@
-```json
- let JosefPolasek = {
+#### josefPolasek.json
+
+ ```json
+{
     "profesion": "Software Engineer",
     "education": [
         {
