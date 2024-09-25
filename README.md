@@ -3,8 +3,8 @@
  ```json
 {
     "location": "Prague",
-    "role": "Python AI Developer",
-    "work": "Granton AI",
+    "role": "Trading Analyst",
+    "work": "Powertica Commodities",
     "tools": ["Docker", "Postman", "JetBrains IDEs", "VSCode"],
     "technologies": ["Python", "React"],
     "services": ["OpenAI API"],
